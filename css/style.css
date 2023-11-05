@@ -1,0 +1,60 @@
+header{
+    
+    margin: auto;
+    margin-left: 282px;
+
+}
+
+.head{
+    margin-left: 282px;
+}
+main{
+    margin:auto;
+    width: 906px;
+}
+
+
+.hrImage{
+    border: none;
+    height: 15px;
+    background-image: url(/img/hr-img.png);
+}
+
+.logo{
+    display: flex;
+   
+}
+.main-text{
+    margin: 10px;
+    text-align: justify;
+}
+.delicious{
+    width: 145px;
+    
+}
+
+nav{
+    display: inline-block;
+    margin-left: 720px;
+}
+
+
+li{
+    list-style: none;
+}
+
+
+
+.card{
+    position: relative;
+}
+
+.list{
+    position: absolute;
+    display: flex;
+    
+}
+
+.vanImage{
+    display: flex;
+}
